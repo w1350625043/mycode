@@ -1,0 +1,6 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\pwm.obj",
+".\Objects\uart.obj" 
+TO ".\Objects\uart-pwm" 
+PRINT(".\Listings\uart-pwm.m51")
